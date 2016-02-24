@@ -1,0 +1,14 @@
+layout_spectrum: 0.06176154
+color:
+  saturation: 0.9072946
+  brandStrength: 0.3512499
+  lightness: 0.8007519
+  rhythmicContrast: 0.7588614
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+typography_spectrum: 0.5622986
+name: SellandSucceed
